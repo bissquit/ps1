@@ -3,7 +3,7 @@ $BackupName = "$VMName-" + ( Get-Date ).DayOfWeek + "-Backup"
 #temporary folder
 $VMSnapshotPath = "D:\"
 #backup storage path
-$VMRemoteSnapshotPath = "\\scoutreserve01\Data"
+$VMRemoteSnapshotPath = "\\server\Data"
 
 function Timestamp {
 
