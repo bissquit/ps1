@@ -12,7 +12,7 @@
 #      CREATED: 01.02.2018
 #=========================================================================
 
-$LogFile = "C:\Users\e.vasilev.da\Downloads\ExchangeX400Deletion(rev.1.0.0).log"
+$LogFile = "C:\ExchangeX400Deletion(rev.1.0.0).log"
 
 #header
 "Script ExchangeX400Deletion starting work" > "$LogFile"
