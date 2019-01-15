@@ -1,3 +1,16 @@
+#=========================================================================
+#         FILE: CreateJiraTask(rev.1.2.0).ps1
+#
+#        USAGE: run from whatever you want. Don't forget to type params
+#
+#  DESCRIPTION: the script creates new jira task
+#
+#        NOTES:
+#       AUTHOR: E.S.Vasilyev - bq@bissquit.com; e.s.vasilyev@mail.ru
+#      VERSION: 1.2.0
+#      CREATED: 15.01.2019
+#=========================================================================
+
 # https://psjira.readthedocs.io/en/latest/getting_started.html
 #
 # On new host (powershell v5.0) run:
